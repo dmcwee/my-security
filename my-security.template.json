@@ -1,0 +1,32 @@
+{
+    "defaultParameters": [
+        {
+            "function":"Get-Token",
+            "variable":"tenantId",
+            "value":"[YOUR TENANT ID HERE]"
+        },
+        {
+            "function":"Get-Token",
+            "variable":"appId",
+            "value":"[APP ID BASED ON DOCUMENTATION]"
+        },{
+            "function":"Get-Token",
+            "variable":"appSecret",
+            "value":"[APP SECRET BASED ON DOCUMENTATION]"
+        },
+        {
+            "function":"Get-GraphToken",
+            "variable":"tenantId",
+            "value":"[YOUR TENANT ID HERE]"
+        },
+        {
+            "function":"Get-GraphToken",
+            "variable":"appId",
+            "value":"[APP ID BASED ON DOCUMENTATION]"
+        },{
+            "function":"Get-GraphToken",
+            "variable":"appSecret",
+            "value":"[APP SECRET BASED ON DOCUMENTATION]"
+        }
+    ]
+}
