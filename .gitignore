@@ -1,1 +1,3 @@
 my-security.json
+my-security.psm1
+*.crt
