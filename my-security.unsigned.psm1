@@ -1,4 +1,10 @@
-﻿
+﻿<#
+    Instructions for registering this module with your AAD Instance.
+    https://learn.microsoft.com/en-us/graph/tutorials/powershell?tabs=aad
+#>
+
+
+
 <#
 
 #>
